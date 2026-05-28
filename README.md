@@ -1,4 +1,4 @@
-# OSCP-2022
-Notes compiled for the OSCP exam, 2022.
+# OSCP
+Notes compiled for the OSCP exam.
 
 
